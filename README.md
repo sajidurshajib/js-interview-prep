@@ -11,6 +11,7 @@
 2. **Advanced Concepts:**
 
     - Closures
+    - Hoisting
     - Prototypes and inheritance
     - Asynchronous JavaScript (Promises, async/await)
     - Higher-order functions
